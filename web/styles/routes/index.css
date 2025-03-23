@@ -1,0 +1,29 @@
+@import url("../shared.css");
+
+.index-page {
+  background-color: var(--background);
+  width: 100vw;
+  height: inherit;
+}
+
+.k-index-jumbo {
+  color: var(--foreground);
+  font-family: "Playfair Display";
+  font-weight: 900;
+  text-wrap-mode: wrap;
+  font-size: 12vw;
+}
+
+.k-index-surject-1 {
+  color: var(--foreground);
+  font-family: "Jetbrains Mono";
+  font-weight: 300;
+  font-size: 100%;
+}
+
+.k-index-surject-2 {
+  color: var(--foreground);
+  font-family: "Monsterrat", sans-serif;
+  font-weight: 300;
+  font-size: 100%;
+}

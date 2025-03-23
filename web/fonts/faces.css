@@ -1,0 +1,343 @@
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 900;
+  font-style: normal;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-Black.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 900;
+  font-style: italic;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-BlackItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 700;
+  font-style: italic;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-BoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 800;
+  font-style: normal;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-ExtraBold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 800;
+  font-style: italic;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-ExtraBoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: normal;
+  font-style: italic;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-Italic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 500;
+  font-style: normal;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-Medium.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 500;
+  font-style: italic;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-MediumItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: normal;
+  font-style: normal;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 600;
+  font-style: normal;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-SemiBold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 600;
+  font-style: italic;
+  src: url("/fonts/playfairdisplay/PlayfairDisplay-SemiBoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-BlackItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-ExtraBoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 200;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 200;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-ExtraLightItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: normal;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-LightItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-MediumItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: normal;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-SemiBoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-style: normal;
+  src: url("/fonts/monsterrat/Montserrat-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-style: italic;
+  src: url("/fonts/monsterrat/Montserrat-ThinItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 700;
+  font-style: italic;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-BoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 800;
+  font-style: normal;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-ExtraBold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 800;
+  font-style: italic;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-ExtraBoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 200;
+  font-style: normal;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-ExtraLight.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 200;
+  font-style: italic;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-ExtraLightItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: normal;
+  font-style: italic;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 300;
+  font-style: normal;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 300;
+  font-style: italic;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-LightItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 500;
+  font-style: normal;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 500;
+  font-style: italic;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-MediumItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: normal;
+  font-style: normal;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 600;
+  font-style: normal;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 600;
+  font-style: italic;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-SemiBoldItalic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 100;
+  font-style: normal;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  font-weight: 100;
+  font-style: italic;
+  src: url("/fonts/jetbrainsmono/JetBrainsMono-ThinItalic.ttf")
+    format("truetype");
+}
